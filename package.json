@@ -1,0 +1,19 @@
+{
+  "name": "freetransfer-gui",
+  "version": "0.0.1",
+  "description": "freetransfer - GUI for uploads",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meteormanaged/freetransfer-gui.git"
+  },
+  "author": "Mike Kozak <mkozak@meteormanaged.com> (http://www.meteormanaged.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meteormanaged/freetransfer-gui/issues"
+  },
+  "homepage": "https://github.com/meteormanaged/freetransfer-gui#readme"
+}
